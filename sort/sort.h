@@ -13,7 +13,6 @@
 #ifndef ASSEMBLER_SORT_H
 #define ASSEMBLER_SORT_H
 
-//! A binary search througth the array return the index of element or 0 if it is the first element or not found.
 /*!
   \param seq an long long array (to sort).
   \param tmp an long long array (temporal).
